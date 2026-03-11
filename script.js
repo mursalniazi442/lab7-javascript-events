@@ -1,4 +1,13 @@
-// JavaScript event handling for lab 7 // Mouse Events
+// JavaScript event handling for lab 7 
+
+//Mouse Events
+//Keyboard Events
+//Form Events
+//Ffocuse and Blur Events
+//Event Delegation
+
+
+// Mouse Events
 
 const hoverButton = document.getElementById("hoverButton");
 
